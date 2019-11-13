@@ -1,5 +1,5 @@
 # The scope : 
-We used c# as a programming language at visual studio editor because it is simple , modern and easy to use .
+We have used c# programming language at visual studio editor because it is simple , modern and easy to use .
 
 ## The brief description :
 Our program contains 9 different webforms displays: 
